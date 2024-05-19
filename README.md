@@ -46,8 +46,6 @@ e. **Translator Final version** : Final version of translator added.
 
 ## Table of contents:
 
-## Version 2 Features
-
 | Feature                | Deadline     | Commit Message                                 | Date, Time           |
 |------------------------|--------------|------------------------------------------------|----------------------|
 | Homepage with logo     | 2024-04-30   |modified homepage by adding spokeny logo (canva)| 2024-04-28, 23:11:36 |
