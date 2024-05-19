@@ -25,24 +25,24 @@ Spokeny is a language learning platform focused on improving speaking skills. It
 Email: [contact@spokeny.com]
 
 ## Version 1 :
-a. **Lectures**: Video lectures for 12 languages by diverse teachers.
-b. **Homepage** :First version of homepage added.
-c. **Reference material** required for the project added.
-d. **Login page**: Simple login form with password reset option.
-e. **Images** : High quality visuals and icons for a cohesive design.
+1. **Lectures**: Video lectures for 12 languages by diverse teachers.
+2. **Homepage** :First version of homepage added.
+3. **Reference material** required for the project added.
+4. **Login page**: Simple login form with password reset option.
+5. **Images** : High quality visuals and icons for a cohesive design.
 
 ## Version 2:
-a. **Sign up page**: User registration form with essential fields.
-b. **Quizzes**: Language-specific quizzes to test knowledge.
-c. **Translator**: Bootstrap-based first version of a translation tool.
-d. **Translator icons**: Custom icons for the translator interface.
+1. **Sign up page**: User registration form with essential fields.
+2. **Quizzes**: Language-specific quizzes to test knowledge.
+3. **Translator**: Bootstrap-based first version of a translation tool.
+4. **Translator icons**: Custom icons for the translator interface.
 
 ## Version 3:
-a. **About us**: Information about developers added.
-b. **Feedback**: A feedback form to contact us about queries and suggestions
-c. **Paid Courses** : Paid courses for interactive lessons and better experience.
-d **Homepage Final version** : Final version of homepage added
-e. **Translator Final version** : Final version of translator added. 
+1. **About us**: Information about developers added.
+2. **Feedback**: A feedback form to contact us about queries and suggestions
+3. **Paid Courses** : Paid courses for interactive lessons and better experience.
+4 **Homepage Final version** : Final version of homepage added
+5. **Translator Final version** : Final version of translator added. 
 
 ## Table of contents:
 
